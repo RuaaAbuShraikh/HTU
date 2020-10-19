@@ -1,0 +1,207 @@
+
+#header_sec02
+{
+  background-color: #0d8c60;
+  margin-bottom: 0px;
+}
+.bg-white {
+  color: #fff;
+
+}
+
+#header_sec02
+ .navbar-brand {
+  padding: 23.5px 20px;
+  font-size: 20px;
+  color: #fff;
+
+}
+
+#header_sec02
+ .navbar-nav {
+  width: 100%;
+  background-color: #0d8c60;
+  color: #fff;
+  font-size: 18px;
+font-weight: bold;
+}
+
+.nav-item {
+  padding: 20px 8px;
+  margin: 0px 3px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #fff;
+  position: static;
+}
+
+
+
+.nav-item:hover {
+  color: #0d8c60;
+  background-color: #fff;
+}
+
+a {
+  color: inherit !important
+}
+
+.nav-link {
+  padding: 5px
+}
+
+.navbar-collapse.collapse.in {
+  display: block !important
+}
+
+.fa-angle-down {
+  padding-right: 10px
+}
+
+
+
+.dropdown-menu {
+  margin-top: 0px;
+  border-style: inset;
+  text-align: center;
+}
+
+#dropdown-menu1 {
+  position: absolute;
+  right: 140px;
+  padding: 20px;
+  width: 200px
+
+}
+
+#dropdown-menu2 {
+  position: absolute;
+  right: 240px;
+  padding: 20px;
+  width: 200px
+}
+
+#dropdown-menu3 {
+  position: absolute;
+  right: 380px;
+  padding: 20px;
+  width: 200px
+}
+
+#dropdown-menu4 {
+  position: absolute;
+  right: 530px;
+  padding: 20px;
+  width: 200px
+}
+#dropdown-menu5{
+  position: absolute;
+  right: 700px;
+  padding: 20px;
+  width: 200px
+}
+#dropdown-menu6 {
+  position: absolute;
+  right: 880px;
+  padding: 20px;
+  width: 200px
+}
+.navbar-toggler-icon
+{color:#fff;}
+.tab {
+  margin-bottom: 20px;
+  width: 170px;
+}
+
+.tab:hover {
+  color: #0d8c60 !important;
+}
+
+.dropdown-item {
+  padding: 0px
+}
+
+.dropdown-item:hover {
+  background-color: inherit
+}
+
+@media (max-width: 767px) {
+  .nav-item {
+      width: 100%;
+      text-align: left;
+      padding-left: 10px
+  }
+
+  .dropdown-menu {
+      right: 0  !important;
+      position: relative !important;
+      padding: 20px;
+  }
+  #dropdown-menu1 , #dropdown-menu2 , #dropdown-menu3 
+  #dropdown-menu4 , #dropdown-menu5 , #dropdown-menu6
+  {
+    margin-right:200px;
+    text-align: right;
+    float: right;
+  }
+
+}
+
+
+
+
+
+#satis .card {
+  width: 350px;
+  border: none;
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+  border-radius: 12px;
+  margin-right: 180px;
+}
+
+#satis .circle-image img {
+  border: 6px solid #fff;
+  border-radius: 100%;
+  padding: 9px;
+  top: -28px;
+  position: relative;
+  width: 65px;
+  height: 65px;
+  border-radius: 100%;
+  z-index: 1;
+  background: #52b788;
+  cursor: pointer;
+}
+
+
+
+#satis .fw-500 {
+  font-weight: bold;
+  color: #0d8c60;
+  font-size: 1.3em;
+}
+
+#satis i {
+  color: gray;
+  }
+  
+
+#satis .yes:hover {
+color: green;
+}
+
+
+#satis .no:hover {
+  color: red;;
+  }
+
+
+
+
+
+
+
+
+
+
